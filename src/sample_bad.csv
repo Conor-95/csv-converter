@@ -1,0 +1,6 @@
+Name,Age,Department,Salary
+Alice,23,HR,45000
+Bob,30,Engineering
+Charlie,,Finance,65000
+Diana,28,Marketing,55000,ExtraColumn
+Ethan,40,Engineering,90000
